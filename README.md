@@ -1,4 +1,4 @@
-# CMPE-257 AI & Data Engineering    
+# CMPE-252 AI & Data Engineering    
 
 **Introduction to important concepts and techniques from the fields of artificial intelligence. evolution of AI systems. intelligent agents. problem
 solving by searching, machine learning, neural networks, reinforcement learning, and knowledge representation. The data engineering and science
